@@ -8,4 +8,4 @@ _Beside this you can find out the class topper_,
 
 # Instaltion:
 To install & run this code just install python 3.14 and run with Terminal (Linux) or Command promt (Windows)
-simply go to the directory where you place the code file and open terminal or command promt there, Then type [ python3 p1.py ](Linux) & [ python p1.py ] (windows)
+simply go to the directory where you place the code file and open terminal or command promt there, Then type [python3 p1.py] in (Linux) & [python p1.py] (windows)
